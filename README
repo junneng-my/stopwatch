@@ -24,7 +24,7 @@ The value will shown by seven segment.
 
 
 This is the testbench results
-![image](https://user-images.githubusercontent.com/52816448/126443670-9ecc09e8-ba7f-4e13-ac4c-176eb28763db.png)
+![stopwatch_tb](https://user-images.githubusercontent.com/52816448/126445075-813fe246-999d-4de2-ba17-909ca03f5779.png)
 
 First the stopwatch set to 59.58 increase to 59.59, then change to 00.00.
 Then set the value to 00.48, it increase to 00.49, then increase to 00.50 and increase to 00.51.
