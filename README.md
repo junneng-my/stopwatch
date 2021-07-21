@@ -11,16 +11,7 @@ The clock was assumed as 50Mhz.
 Negative edge reset will reset all variable to 0.
 The variable pre and pre1 is used for testing.
 The value will shown by seven segment.
-0	1000000
-1	1111001
-2	0100100
-3	0110000
-4	0011001
-5	0010010
-6	0000010
-7	1111000
-8	0000000
-9	0010000
+![seven segment](https://user-images.githubusercontent.com/52816448/126446447-795184ef-7126-4d91-a3a3-484a7f94563b.JPG)
 
 
 This is the testbench results
