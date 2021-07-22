@@ -20,3 +20,9 @@ This is the testbench results
 
 First the stopwatch set to 59.58 increase to 59.59, then change to 00.00.
 Then set the value to 00.48, it increase to 00.49, then increase to 00.50 and increase to 00.51.
+
+State diagram  
+![state diagram_stopwatch](https://user-images.githubusercontent.com/52816448/126582298-2610c1cd-e594-42d9-bcce-b2c8df8dedff.png)  
+
+Future improvement
+1) Actually the state_3 can go to state only, no need go to state_1 and state_2 to reset value to zero, it already reset before.
